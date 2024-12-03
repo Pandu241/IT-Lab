@@ -20,3 +20,4 @@ def sequence_statistics():
         a = s / n
     
     return n, s, m, a
+# it looks like I learned how to use git today
